@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\bin\Debug\netcoreapp3.1\MathKitten.exe
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\bin\Debug\netcoreapp3.1\MathKitten.deps.json
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\bin\Debug\netcoreapp3.1\MathKitten.runtimeconfig.json
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\bin\Debug\netcoreapp3.1\MathKitten.runtimeconfig.dev.json
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\bin\Debug\netcoreapp3.1\MathKitten.dll
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\bin\Debug\netcoreapp3.1\MathKitten.pdb
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\obj\Debug\netcoreapp3.1\MathKitten.csprojAssemblyReference.cache
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\obj\Debug\netcoreapp3.1\MathKitten.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\obj\Debug\netcoreapp3.1\MathKitten.AssemblyInfo.cs
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\obj\Debug\netcoreapp3.1\MathKitten.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\obj\Debug\netcoreapp3.1\MathKitten.dll
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\obj\Debug\netcoreapp3.1\MathKitten.pdb
+C:\Users\User\Desktop\soft\MathKitten\MathKitten\obj\Debug\netcoreapp3.1\MathKitten.genruntimeconfig.cache
