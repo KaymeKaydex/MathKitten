@@ -75,6 +75,7 @@ namespace MathKitten
                     string YN = Console.ReadLine().ToLower();
                     switch (YN)
                     {
+                        case "1":
                         case "":
                         case "yes":
                         case "y":
